@@ -1,4 +1,4 @@
-# MatPlotLib_Practice
+# Matplotlib_Practice
 Simple and basic Matplotlib programs to understand the basics of Data visualization using Python.
 
 All the scripts are well commented and self explanatory.
